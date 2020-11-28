@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script src="../define.js"></script>
+<script>
+  define( function ( require, exports, module ) {
+    const a =require( "file:///Users/hukun/Desktop/interview-impl/cmd-impl/__test__/a.js" )
+    const b =require( "file:///Users/hukun/Desktop/interview-impl/cmd-impl/__test__/b.js" )
+    a.show("a")
+    b.show("b")
+  } )
+</script>
+</body>
+</html>

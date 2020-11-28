@@ -1,0 +1,17 @@
+{
+  "name": "js-modele-impl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [
+    "amd",
+    "cmd",
+    "commonjs"
+  ],
+  "author": {
+    "name": "Hu Kun",
+    "email": "mrhukun@gmail.com"
+  },
+  "license": "MIT"
+}
